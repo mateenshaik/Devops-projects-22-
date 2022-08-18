@@ -17,4 +17,4 @@ spec:
           image: mateenshaikh00/myy-pipeline
           imagePullPolicy: Always
           ports:
-          - containerPort: 81
+          - containerPort: 80
